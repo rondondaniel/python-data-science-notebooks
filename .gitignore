@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 # Docs
+DS_Store
 *.csv
 *.docx
 *.xlsx
